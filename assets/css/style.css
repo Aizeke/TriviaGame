@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+
+
+.pokeImg {
+    width: 300px;
+    height: auto;
+    margin: 5px;
+}
